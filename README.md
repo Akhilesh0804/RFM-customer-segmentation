@@ -8,7 +8,7 @@ UK Based Online Retail Dataset — available on Kaggle
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 541,909 transactions, 8 columns, covering December 2010 to December 2011.
-Single CSV file — no relational tables.
+Single CSV file.
 
 ## Tools used
 PostgreSQL — data storage and analysis  
