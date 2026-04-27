@@ -4,7 +4,7 @@
 A UK based online retailer selling unique all occasion gifts. Despite having 541909 transactions across 4372 customers, the business lacks a structured understanding of customer value and behaviour , specifically which customers are most valuable, which are at risk of churning, and which have already been lost. This analysis applies RFM (Recency, Frequency, Monetary) segmentation to identify distinct customer profiles and quantify the revenue concentration across segments. The findings will enable targeted interventions , including retention campaigns for at-risk high value customers, upselling strategies for loyal customers, and win-back programs for churned customers with the goal of improving customer retention and average order value.
 ## Dataset
 ## Dataset
-UK Based Online Retail Dataset — available on Kaggle
+UK Based Online Retail Dataset, available on Kaggle
 https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 541,909 transactions, 8 columns, covering December 2010 to December 2011.
